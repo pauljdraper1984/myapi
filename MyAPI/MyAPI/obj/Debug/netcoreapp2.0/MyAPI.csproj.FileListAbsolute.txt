@@ -1,0 +1,11 @@
+D:\Development\MyAPI\MyAPI\bin\Debug\netcoreapp2.0\MyAPI.deps.json
+D:\Development\MyAPI\MyAPI\bin\Debug\netcoreapp2.0\MyAPI.runtimeconfig.json
+D:\Development\MyAPI\MyAPI\bin\Debug\netcoreapp2.0\MyAPI.runtimeconfig.dev.json
+D:\Development\MyAPI\MyAPI\bin\Debug\netcoreapp2.0\MyAPI.dll
+D:\Development\MyAPI\MyAPI\bin\Debug\netcoreapp2.0\MyAPI.pdb
+D:\Development\MyAPI\MyAPI\obj\Debug\netcoreapp2.0\MyAPI.csprojResolveAssemblyReference.cache
+D:\Development\MyAPI\MyAPI\obj\Debug\netcoreapp2.0\MyAPI.csproj.CoreCompileInputs.cache
+D:\Development\MyAPI\MyAPI\obj\Debug\netcoreapp2.0\MyAPI.AssemblyInfoInputs.cache
+D:\Development\MyAPI\MyAPI\obj\Debug\netcoreapp2.0\MyAPI.AssemblyInfo.cs
+D:\Development\MyAPI\MyAPI\obj\Debug\netcoreapp2.0\MyAPI.dll
+D:\Development\MyAPI\MyAPI\obj\Debug\netcoreapp2.0\MyAPI.pdb

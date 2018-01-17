@@ -1,0 +1,11 @@
+services:
+  myapi:
+    build:
+      context: D:\Development\MyAPI\MyAPI
+      dockerfile: Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: myapi
+    ports:
+    - 80/tcp
+version: '3.0'
